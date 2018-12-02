@@ -1,5 +1,3 @@
-from sets import Set
-
 boxes = [line.rstrip('\n') for line in open('data1.txt')]
 
 def getDistinctLetters(box):
